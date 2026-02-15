@@ -1,9 +1,5 @@
 # 👩‍💻 Sudha Kumari – Full Stack & AI Developer Portfolio Repository
 
-Welcome to my centralized project repository.
-
-👉 Please open individual folders to explore each project in detail.
-
 ---
 
 ## 🚀 About Me
